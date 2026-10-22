@@ -66,7 +66,15 @@ body {
 .p-24 {
     padding:24px;
 }
-
+.d-block {
+    display: block;
+}
+.marg {
+    margin:0px 15px;
+}
+.w100 {
+    width: 100%;
+}
 @media (min-width: 768px) {
     .blog-preview-container {
         width: 392px;
