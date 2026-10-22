@@ -10,7 +10,7 @@ Thanks for checking out my code and solution of this project
 
 
 1. I started creating a blank html page, css file and 2 folders, fonts and assets for the images.
-2. 
+2. I set my classes up, font size, colors, padding, fonts, presets, margins, headings body etc.
 3. 
 4. 
 
