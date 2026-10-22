@@ -138,11 +138,8 @@ h2 {
 }
 @media (max-width:380px) {
     .blog-preview-container {
-        width: auto;
-        max-width: 350px;
-        position: static;
-        margin: 5px;
-        box-shadow: none;
         padding: 15px;
+        width: 300px;
+        margin-left: -150px;
     }
 }
