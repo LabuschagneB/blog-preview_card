@@ -127,6 +127,13 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# Fonts
+*.woff
+*.woff2
+*.ttf
+*.eot
+*.otf
+
 # Chutzpah Test files
 _Chutzpah*
 
